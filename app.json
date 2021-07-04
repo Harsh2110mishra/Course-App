@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Udemy",
-    "slug": "Udemy",
+    "name": "Course App",
+    "slug": "Course-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
